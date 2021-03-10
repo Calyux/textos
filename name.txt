@@ -1,2 +1,6 @@
 Mi nombre es Junior Ulises Guevara Tanta
 Esta linea se agrega en la rama hotfix
+Soy programador
+Estudio en la UNI
+Me gusta la palta
+Un ultimo dato :D
